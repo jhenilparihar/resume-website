@@ -2947,7 +2947,7 @@ img.u-pull-left {
     color               : white;
     transition-property : color, background-color;
 }
-.mobile-home-link a {
+.home-link {
     font-size           : 13px;
 }
 .mobile-home-link a:focus,
