@@ -3233,12 +3233,12 @@ img.u-pull-left {
 }
 
 .intro-social a {
-    color : var(--color-text-light);
+    color : var(--color-text-dark);
 }
 
 .intro-social a:focus,
 .intro-social a:hover {
-    color : white;
+    color : var(--color-1);
 }
 
 /* --------------------------------------------------------------------
