@@ -3085,7 +3085,7 @@ img.u-pull-left {
 }
 @media screen and (max-width: 900px) {
     .mobile-home-link a, .main-nav a {
-        font-size : 8rem;
+        font-size : 8px;
     }
 }
 @media screen and (max-width: 800px) {
