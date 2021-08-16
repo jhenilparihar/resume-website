@@ -3249,7 +3249,7 @@ img.u-pull-left {
     justify-content : center;
     align-items     : center;
     position        : absolute;
-    bottom          : 20rem;
+    bottom          : 24rem;
     right           : 5.8rem;
 }
 
@@ -3289,6 +3289,7 @@ img.u-pull-left {
 
     .intro-scrolldown {
         right : 4rem;
+        bottom: 10rem;
     }
 }
 
@@ -3352,7 +3353,7 @@ img.u-pull-left {
 
     .intro-scrolldown {
         right : 2.4rem;
-        bottom: 10rem;
+        bottom: 9rem;
     }
 }
 
