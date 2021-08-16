@@ -3083,7 +3083,11 @@ img.u-pull-left {
         width : 100%;
     }
 }
-
+@media screen and (max-width: 900px) {
+    .mobile-home-link a, .main-nav a {
+        font-size : 8rem;
+    }
+}
 @media screen and (max-width: 800px) {
     .s-header {
         height : var(--header-height);
