@@ -3245,7 +3245,7 @@ img.u-pull-left {
     justify-content : center;
     align-items     : center;
     position        : absolute;
-    bottom          : 25.8rem;
+    bottom          : 20rem;
     right           : 5.8rem;
 }
 
@@ -3274,7 +3274,7 @@ img.u-pull-left {
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 800px) {
     .s-intro {
         --text-huge-multiplier : .85;
     }
