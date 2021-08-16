@@ -4254,7 +4254,7 @@ html {
 }
 
 ::-webkit-scrollbar { width: 8px; height: 3px;}
-::-webkit-scrollbar-button {  background-color: #666; }
+::-webkit-scrollbar-button {  background-color: #141414; }
 ::-webkit-scrollbar-track {  background-color: #646464;}
 ::-webkit-scrollbar-track-piece { background-color: #000;}
 ::-webkit-scrollbar-thumb { height: 50px; background-color: #666; border-radius: 3px;}
