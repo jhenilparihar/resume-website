@@ -3089,6 +3089,10 @@ img.u-pull-left {
     }
 }
 @media screen and (max-width: 800px) {
+    .mobile-home-link a, .main-nav a {
+        font-size : 11px;
+    }
+    
     .s-header {
         height : var(--header-height);
     }
@@ -3353,7 +3357,7 @@ img.u-pull-left {
 
     .intro-scrolldown {
         right : 2.4rem;
-        bottom: 9rem;
+        bottom: 8rem;
     }
 }
 
