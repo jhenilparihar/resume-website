@@ -3191,7 +3191,6 @@ img.u-pull-left {
     min-height      : calc(25.5 * var(--space));
     justify-content : center;
     align-items     : center;
-    padding-top     : calc(16vh + var(--header-height));
     padding-bottom  : var(--vspace-3);
 }
 
