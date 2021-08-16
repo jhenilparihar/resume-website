@@ -3211,7 +3211,7 @@ img.u-pull-left {
     text-transform   : uppercase;
     letter-spacing   : .3em;
     margin           : 0;
-    padding          : 0 0 0 9.6rem;
+    padding          : 0 0 0 27.6rem;
     transform        : rotate(-90deg) translateX(-50%);
     transform-origin : left bottom;
     position         : absolute;
@@ -3243,7 +3243,7 @@ img.u-pull-left {
     justify-content : center;
     align-items     : center;
     position        : absolute;
-    bottom          : 4.8rem;
+    bottom          : 25.8rem;
     right           : 5.8rem;
 }
 
