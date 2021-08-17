@@ -3221,11 +3221,11 @@ img.u-pull-left {
     text-transform   : uppercase;
     letter-spacing   : .3em;
     margin           : 0;
-    padding          : 0 0 0 27.6rem;
+    padding          : 0 0 0 0rem;
     transform        : rotate(-90deg) translateX(-50%);
     transform-origin : left bottom;
     position         : absolute;
-    top              : 50%;
+    top              : 35%;
     left             : calc(100% - 6rem);
 }
 
@@ -3326,7 +3326,7 @@ img.u-pull-left {
     .intro-content {
         min-height  : 0;
         align-items : flex-start;
-        padding-top : calc(9.6rem + var(--header-height));
+        padding-top : calc(4.6rem + var(--header-height));
     }
 
     .intro-content .text-huge-title {
@@ -3338,7 +3338,7 @@ img.u-pull-left {
         width         : 100%;
         flex-wrap     : wrap;
         padding-left  : 0;
-        padding-right : 8rem;
+        padding-right : 3rem;
         transform     : none;
         position      : relative;
         left          : var(--gutter);
