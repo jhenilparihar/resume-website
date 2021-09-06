@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Alata
+- Font Author: Copyright 2019 The Alata Project Authors (https://github.com/SorkinType/Alata)
+- Font Source: http://fonts.gstatic.com/s/alata/v2/PbytFmztEwbIofe6xKcRQEOX.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
