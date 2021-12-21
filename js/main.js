@@ -1,8 +1,3 @@
-/* ===================================================================
- * Luther 1.0.0 - Main JS
- *
- * ------------------------------------------------------------------- */
-
 (function(html) {
 
     "use strict";
@@ -334,7 +329,7 @@
         
         const moveTo = new MoveTo({
             tolerance: 0,
-            duration: 2000,
+            duration: 1200,
             easing: 'easeInOutCubic',
             container: window
         }, easeFunctions);
